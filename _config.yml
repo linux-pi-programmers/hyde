@@ -11,7 +11,7 @@ title:            LPP
 tagline:          'Linux PI Programmers'
 description:      'Implementing the Proportional Integral (PI) AQM in the Linux Kernel'
 url:              http://linux-pi-programmers.github.io
-baseurl:          /
+baseurl:          ''
 
 author:
   name:           'Linux PI Programmers'
